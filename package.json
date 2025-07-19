@@ -1,0 +1,15 @@
+{
+  "name": "dsa-chat",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dsa.js",
+  "type":"module",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@google/genai": "^1.10.0"
+  }
+}
