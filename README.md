@@ -10,4 +10,3 @@ how you can access this bot is explain below:
 5: run command:node dsa.js 
 6: you good to go , see ans
 
-fgcfg
